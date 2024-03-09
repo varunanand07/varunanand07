@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Varun Anand<br><br>🎓 I'm an Integrated Computer Science Student<br><br>🔭 I’m currently working on:<br><br>- Personal Projects<br><br>- College Projects<br><br>🌱 I’m currently learning:<br><br>- Javascript, Typescript, GoLang<br><br>- Node.js, React.js & Angular<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Full Stack Web Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257
+Hello! I'm Varun Anand!<br><br>🎓 I'm an Integrated Computer Science Student<br><br>🔭 I’m currently working on:<br><br>- Personal Projects<br><br>- College Projects<br><br>🌱 I’m currently learning:<br><br>- Javascript, Typescript, GoLang<br><br>- Node.js, React.js & Angular<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Full Stack Web Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257
 
 
 ## 🌐 Socials:
