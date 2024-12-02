@@ -1,6 +1,6 @@
 # Hello! I'm Varun Anand!
 ## 🎓 I'm an Integrated Computer Science Student<br><br>
-🔭 I’m currently working on:<br><br>- Personal Projects<br><br>- College Projects<br><br>🌱 I’m currently learning preparing for my AWS Certified Solutions Architect Examination<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Cloud Engineering/Development<br><br>- Full Stack Web Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257
+🔭 I’m currently working on:<br><br>- Personal Projects<br><br>- College Projects<br><br>🌱 I’m currently learning preparing for my AWS Certified Solutions Architect Certification.<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Cloud Engineering/Development<br><br>- Full Stack Web Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257<br><br>My Website: https://personal-portfolio-website-varunanand07s-projects.vercel.app
 
 
 ## 🌐 Socials:
