@@ -2,9 +2,10 @@
 ## 🎓 I'm an Integrated Computer Science Student<br><br>
 🔭 I’m currently building:<br><br>- A full-stack banking application (Enigma). It will be built with Next.js 14 that provides a unified finance management dashboard. You can connect multiple bank accounts, view real-time transactions, and transfer money to other users on the platform. But that's not all! This project also introduces Collaborative Saving and Financial Playbooks a new feature that is nonexistent in modern banking platorms. Collaborative Saving (“Circle Goals”) allows you to: <br><br>
 - Create shared saving goals with friends or family (e.g., travel, weddings, group gifts).
-<br><br> - Lock funds until targets or deadlines are reached.
-<br><br> - Track each member’s contributions, progress, and milestones—complete with gamified achievements.
-Financial Playbooks gives you:
+- Lock funds until targets or deadlines are reached.
+- Track each member’s contributions, progress, and milestones—complete with gamified achievements.
+
+<br><br> Financial Playbooks gives you:
 <br><br> - Step-by-step guides to major life events (buying a home, planning a wedding, starting a family, etc.).
 <br><br> - Automated budget suggestions, recommended savings targets, and integrated calculators.
 <br><br> - Streamlined referrals (mortgage brokers, insurance agents, etc.) to make financial planning more convenient. <br><br> This project will be deployed using AWS by the end of January. <br><br> 🌱 I’m currently preparing for my **AWS Certified Solutions Architect Certification.**<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Cloud Engineering/Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>- Full Stack Web Development<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257<br><br>My Website: https://personal-portfolio-website-varunanand07s-projects.vercel.app
