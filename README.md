@@ -11,7 +11,7 @@
 <br><br> - Step-by-step guides to major life events (buying a home, planning a wedding, starting a family, etc.).
 <br><br> - Automated budget suggestions, recommended savings targets, and integrated calculators.
 <br><br> - Streamlined referrals (mortgage brokers, insurance agents, etc.) to make financial planning more convenient. 
-<br><br> <br><br> This project will be deployed using AWS by the end of January. 🌱 I’m also currently preparing for my **AWS Certified Solutions Architect Certification.**<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Cloud Engineering/Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>- Full Stack Web Development<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257<br><br>My Website: https://personal-portfolio-website-varunanand07s-projects.vercel.app
+<br><br> <br><br> This project will be deployed using AWS by the end of January. <br><br> 🌱 I’m also currently preparing for my **AWS Certified Solutions Architect Certification.**<br><br>🤔 I’m interested in:<br><br>- Software Engineering/Development<br><br>- Cloud Engineering/Development<br><br>- Machine Learning<br><br>- Natural Language Processing<br><br>- Full Stack Web Development<br><br>📫 How to reach me:<br><br>Email: vanand@tcd.ie<br><br>LinkedIn: www.linkedin.com/in/varun-anand-082b72257<br><br>My Website: https://personal-portfolio-website-varunanand07s-projects.vercel.app
 
 
 ## 🌐 Socials:
