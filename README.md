@@ -50,18 +50,49 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ## 💻 Tech Stack
 
-| **Programming Languages**                                                                                                         | **Data Processing & Machine Learning**                                                                                |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| - **Python**<br/>- **Java**<br/>- **C++**<br/>- **SQL**<br/>- **PHP**<br/>- **JavaScript**                                          | - **Pandas**, **NumPy**<br/>- **Deep Learning**: TensorFlow, spaCy<br/>- **scikit-learn**                              |
+| **Programming Languages** | **Data Processing & Machine Learning** |
+| :------------------------ | :-------------------------------------- |
+| ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) <br/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br/>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br/>
+![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge) <br/>
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br/>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br/>
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) <br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 
-| **Software Development**                                                                                                          | **Cloud & DevOps**                                                                                                    |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| - **Distributed Systems**<br/>- **REST API Design**<br/>- **Microservices**<br/>- **SDLC**<br/>- **Agile (Scrum)**<br/>- **CI/CD** | - **AWS (Certified Cloud Practitioner)**<br/>- **Docker**<br/>- **Kubernetes**<br/>- **Git**<br/>- **Jira**<br/>- **Monitoring & Alerting** |
+| **Software Development** | **Cloud & DevOps** |
+| :----------------------- | :----------------- |
+| **Key Concepts**:<br/>
+• Distributed Systems<br/>
+• REST API Design<br/>
+• Microservices<br/>
+• SDLC<br/>
+• Agile (Scrum)<br/>
+• CI/CD | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) <br/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br/>
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) <br/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <br/>
+**Monitoring & Alerting** |
 
-| **Database Systems**                                                                                                              | **Frameworks & Tools**                                                                                               |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| - **MySQL**<br/>- **PostgreSQL**<br/>- **Oracle**                                                                                 | - **ReactJS**<br/>- **NodeJS**<br/>- **Spring Boot**<br/>- **GraphQL**<br/>- **JUnit**<br/>- **Flask**<br/>- **Liferay DXP** |
+| **Database Systems** | **Frameworks & Tools** |
+| :------------------- | :---------------------- |
+| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br/>
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br/>
+![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br/>
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br/>
+![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) <br/>
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=cachet&logoColor=white) <br/>
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <br/>
+**Liferay DXP** |
 
-| **Testing**                                                                                                                       |                                                                                                                        |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| - **Unit Testing**<br/>- **Integration Testing**<br/>- **Load & Performance Testing**                                             |                                                                                                                        |
+| **Testing** | **Solutions** |
+| :---------: | :-----------: |
+| **Test Types**:<br/>
+• Unit Testing<br/>
+• Integration Testing<br/>
+• Load & Performance Testing | *TBD or any content you’d like here* |
