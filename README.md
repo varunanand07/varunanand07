@@ -48,34 +48,54 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-**Programming Languages & Frameworks**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Programming Languages
+- **Python**
+- **Java**
+- **C++**
+- **SQL**
+- **PHP**
+- **JavaScript**
 
-**Frontend & Backend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Data Processing & Machine Learning
+- **Pandas**, **NumPy**
+- **Deep Learning**: TensorFlow, spaCy
+- **scikit-learn**
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+### Software Development
+- **Distributed Systems**
+- **REST API Design**
+- **Microservices**
+- **SDLC**
+- **Agile (Scrum)**
+- **CI/CD**
 
-**Databases & ML**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### Cloud & DevOps
+- **AWS (Certified Cloud Practitioner)**
+- **Docker**
+- **Kubernetes**
+- **Git**
+- **Jira**
+- **Monitoring & Alerting**
 
----
+### Database Systems
+- **MySQL**
+- **PostgreSQL**
+- **Oracle**
+
+### Frameworks & Tools
+- **ReactJS**
+- **NodeJS**
+- **Spring Boot**
+- **GraphQL**
+- **JUnit**
+- **Flask**
+- **Liferay DXP**
+
+### Testing
+- **Unit Testing**
+- **Integration Testing**
+- **Load & Performance Testing**
 
 _Thanks for stopping by!_
