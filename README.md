@@ -50,52 +50,18 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ## 💻 Tech Stack
 
-### Programming Languages
-- **Python**
-- **Java**
-- **C++**
-- **SQL**
-- **PHP**
-- **JavaScript**
+| **Programming Languages**                                                                                                         | **Data Processing & Machine Learning**                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| - **Python**<br/>- **Java**<br/>- **C++**<br/>- **SQL**<br/>- **PHP**<br/>- **JavaScript**                                          | - **Pandas**, **NumPy**<br/>- **Deep Learning**: TensorFlow, spaCy<br/>- **scikit-learn**                              |
 
-### Data Processing & Machine Learning
-- **Pandas**, **NumPy**
-- **Deep Learning**: TensorFlow, spaCy
-- **scikit-learn**
+| **Software Development**                                                                                                          | **Cloud & DevOps**                                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| - **Distributed Systems**<br/>- **REST API Design**<br/>- **Microservices**<br/>- **SDLC**<br/>- **Agile (Scrum)**<br/>- **CI/CD** | - **AWS (Certified Cloud Practitioner)**<br/>- **Docker**<br/>- **Kubernetes**<br/>- **Git**<br/>- **Jira**<br/>- **Monitoring & Alerting** |
 
-### Software Development
-- **Distributed Systems**
-- **REST API Design**
-- **Microservices**
-- **SDLC**
-- **Agile (Scrum)**
-- **CI/CD**
+| **Database Systems**                                                                                                              | **Frameworks & Tools**                                                                                               |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| - **MySQL**<br/>- **PostgreSQL**<br/>- **Oracle**                                                                                 | - **ReactJS**<br/>- **NodeJS**<br/>- **Spring Boot**<br/>- **GraphQL**<br/>- **JUnit**<br/>- **Flask**<br/>- **Liferay DXP** |
 
-### Cloud & DevOps
-- **AWS (Certified Cloud Practitioner)**
-- **Docker**
-- **Kubernetes**
-- **Git**
-- **Jira**
-- **Monitoring & Alerting**
-
-### Database Systems
-- **MySQL**
-- **PostgreSQL**
-- **Oracle**
-
-### Frameworks & Tools
-- **ReactJS**
-- **NodeJS**
-- **Spring Boot**
-- **GraphQL**
-- **JUnit**
-- **Flask**
-- **Liferay DXP**
-
-### Testing
-- **Unit Testing**
-- **Integration Testing**
-- **Load & Performance Testing**
-
-_Thanks for stopping by!_
+| **Testing**                                                                                                                       |                                                                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| - **Unit Testing**<br/>- **Integration Testing**<br/>- **Load & Performance Testing**                                             |                                                                                                                        |
