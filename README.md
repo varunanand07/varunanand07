@@ -92,5 +92,3 @@ I'm passionate about software engineering, cloud computing, and building product
 ### Testing
 - **Test Types**: Unit Testing, Integration Testing, Load & Performance Testing
 
-### Solutions
-- TBD or any content you’d like here
