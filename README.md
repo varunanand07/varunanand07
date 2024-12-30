@@ -1,7 +1,7 @@
 # Hello! I'm Varun Anand!
 
 ## 🎓 About Me
-I'm an Integrated Computer Science Student.  
+I'm a Computer Science Student at Trinity College Dublin.
 I'm passionate about software engineering, cloud computing, and building products that solve real-world problems.
 
 ---
