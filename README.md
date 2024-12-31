@@ -6,8 +6,8 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ---
 
-## 🔭 What I'm Building
-### Enigma: A Full-Stack Banking Application (Next.js 14 + AWS)
+## 🔭 What I'm Currently Building
+### Enigma: A Full-Stack Modern Banking Application (Next.js 14 + AWS)
 - **Unified Finance Management**: Connect multiple bank accounts, view real-time transactions, and transfer money.  
 - **Collaborative Saving (“Circle Goals”)**:
   - Create shared saving goals with friends or family (e.g., travel, weddings, group gifts).  
@@ -16,7 +16,9 @@ I'm passionate about software engineering, cloud computing, and building product
 - **Financial Playbooks**:
   - Step-by-step guides for major life events (buying a home, planning a wedding, starting a family, etc.).  
   - Automated budget suggestions, recommended savings targets, and integrated calculators.  
-  - Streamlined referrals to mortgage brokers, insurance agents, and more for convenient financial planning.  
+  - Streamlined referrals to mortgage brokers, insurance agents, and more for convenient financial planning.
+
+- **And more features that make enigma an effective alternative to modern banking apps!**:
 
 > **Deployment**: Targeting AWS deployment by the end of January.
 
