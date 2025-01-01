@@ -1,7 +1,7 @@
 # Hello! I'm Varun Anand!
 
 ## 🎓 About Me
-I'm a Computer Science Student at Trinity College Dublin.
+I'm a Computer Science Student at Trinity College Dublin.  
 I'm passionate about software engineering, cloud computing, and building products that solve real-world problems.
 
 ---
@@ -52,6 +52,10 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ## 💻 Tech Stack
 
+<table>
+<tr>
+  <td valign="top">
+
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -60,6 +64,9 @@ I'm passionate about software engineering, cloud computing, and building product
 - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+  </td>
+  <td valign="top">
+
 ### Data Processing & Machine Learning
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
@@ -67,8 +74,16 @@ I'm passionate about software engineering, cloud computing, and building product
 - ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)  
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+
 ### Software Development
 - **Key Concepts**: Distributed Systems, REST API Design, Microservices, SDLC, Agile (Scrum), CI/CD
+
+  </td>
+  <td valign="top">
 
 ### Cloud & DevOps
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
@@ -77,10 +92,18 @@ I'm passionate about software engineering, cloud computing, and building product
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 - ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+
 ### Database Systems
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 - ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 - ![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+  </td>
+  <td valign="top">
 
 ### Frameworks & Tools
 - ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
@@ -91,6 +114,14 @@ I'm passionate about software engineering, cloud computing, and building product
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 - Liferay DXP
 
+  </td>
+</tr>
+<tr>
+  <td valign="top" colspan="2">
+
 ### Testing
 - **Test Types**: Unit Testing, Integration Testing, Load & Performance Testing
 
+  </td>
+</tr>
+</table>
