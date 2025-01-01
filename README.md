@@ -81,7 +81,12 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ### Software Development
 - **Key Concepts**:  
-  Distributed Systems, REST API Design, Microservices, SDLC, Agile (Scrum), CI/CD
+  - Distributed Systems
+  - REST API Design
+  - Microservices
+  - Software Development Lifecycle
+  - Agile Framework
+  - CI/CD
 
   </td>
   <td valign="top">
@@ -121,8 +126,9 @@ I'm passionate about software engineering, cloud computing, and building product
   <td valign="top" colspan="2">
 
 ### Testing
-- **Test Types**:  
-  Unit Testing, Integration Testing, Load & Performance Testing
+- Unit Testing
+- Integration Testing
+- Load & Performance Testing
 
   </td>
 </tr>
