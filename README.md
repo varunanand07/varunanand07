@@ -79,8 +79,7 @@ I'm passionate about software engineering, cloud computing, and building product
 <tr>
   <td valign="top">
 
-### Software Development
-- **Key Concepts**:  
+### Software Development  
   - Distributed Systems
   - REST API Design
   - Microservices
