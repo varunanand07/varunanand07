@@ -132,3 +132,4 @@ I'm passionate about software engineering, cloud computing, and building product
   </td>
 </tr>
 </table>
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunanand07)](https://github.com/varunanand07/github-readme-stats)
