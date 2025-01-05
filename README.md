@@ -40,7 +40,7 @@ I'm passionate about software engineering, cloud computing, and building product
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunanand07&show_icons=true&include_all_commits=true&cache_seconds=1800&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/varunanand07)](https://git.io/awesome-stats-card)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunanand07&layout=compact&theme=radical)
 
