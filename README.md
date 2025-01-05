@@ -18,7 +18,7 @@ I'm passionate about software engineering, cloud computing, and building product
   - Automated budget suggestions, recommended savings targets, and integrated calculators.  
   - Streamlined referrals to mortgage brokers, insurance agents, and more for convenient financial planning.
 
-- **And more features that make enigma an effective alternative to modern banking apps!**:
+- **And more features that make enigma an effective alternative to modern banking apps!**
 
 > **Deployment**: Targeting AWS deployment by the end of January.
 
@@ -35,6 +35,14 @@ I'm passionate about software engineering, cloud computing, and building product
 - **Machine Learning**  
 - **Natural Language Processing**  
 - **Full Stack Web Development**
+
+---
+
+## 📊 GitHub Stats
+
+![Varun Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunanand07&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunanand07&layout=compact&theme=radical)
 
 ---
 
@@ -132,5 +140,3 @@ I'm passionate about software engineering, cloud computing, and building product
   </td>
 </tr>
 </table>
-
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunanand07)](https://github.com/anuraghazra/github-readme-stats)
