@@ -36,13 +36,6 @@ I'm passionate about software engineering, cloud computing, and building product
 - **Natural Language Processing**  
 - **Full Stack Web Development**
 
----
-
-## 📊 GitHub Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/varunanand07)](https://git.io/awesome-stats-card)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunanand07&layout=compact&theme=radical)
 
 ---
 
